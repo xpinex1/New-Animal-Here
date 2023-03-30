@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css?family=Epilogue');
+body{
+    background-color: hsl(0, 0%, 98%);
+}
+p1{
+    font-family: "Epilogue", serif; 
+    font-size: 18px; 
+    max-width: 300px;
+    color: hsl(0, 0%, 41%);
+    margin-left: 200px;
+}
+dropdown{
+    align-items: left;
+}
+.btn-secondary{
+    background:transparent;
+    border-style: none;
+    color: hsl(0, 0%, 41%);
+}
+.btn{
+    color:hsl(0, 0%, 41%)
+}
+.hero{
+    float: right;
+    margin-right: 100px;
+    max-width: 100%;
+}
+.img{
+    max-width: 100%;
+}
+.container{
+    max-width: 600rem;
+    margin: 2rem auto;
+    padding: 100px 175px;
+}
+.row{
+    display: grid;
+    grid-template-columns: 1.5fr 1fr;
+    align-items: left;
+    grid-column-gap: 20px;
+}
+.info{
+    display: flex;
+    flex-direction: column;
+}
+.hero-heading{
+    font-size: 4.5rem;
+    margin-bottom: 40px;
+    font-weight: 700;
+}
+.subheading{
+    font-family: "Epilogue", serif;
+    font-size:18px;
+    margin-bottom: 10px;
+    word-spacing: 3px;
+    color: hsl(0, 0%, 41%);
+    margin-bottom: 50px;
+    font-weight: 500;
+}
+.learn{
+    font-size: 18px;
+    color: white;
+    background-color: black;
+    font-weight: 500;
+    border-radius: 10px;
+    width:150px;
+    height:50px;
+}
