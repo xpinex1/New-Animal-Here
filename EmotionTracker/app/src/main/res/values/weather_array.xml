@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="weather_array">
+        <item>Sunny</item>
+        <item>Cloudy</item>
+        <item>Rainy</item>
+        <item>Snowy</item>
+        <item>Windy</item>
+        <item>Other</item>
+    </string-array>
+</resources>

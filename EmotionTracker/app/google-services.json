@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "117898010629",
+    "firebase_url": "https://emotion-tracker-d8859.firebaseio.com",
+    "project_id": "emotion-tracker-d8859",
+    "storage_bucket": "emotion-tracker-d8859.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117898010629:android:8dc090ced155f25bd63c6c",
+        "android_client_info": {
+          "package_name": "com.example.emotiontracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "117898010629-uvvvi97fc0656vq6mujn5qmqd5p54m91.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.emotiontracker",
+            "certificate_hash": "fa338dbe24983c3ecd4b378525878021f5f3afc7"
+          }
+        },
+        {
+          "client_id": "117898010629-8f58a9ghv436uoqf270h1jpga0o598s4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgZUK7dXZt6Uaiuaj3DgDfwQsb9x0aZEI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "117898010629-d6smrfse3npch2jun63slpefrh10dmro.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

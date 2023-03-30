@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Emotion Tracker</string>
+    <string name="server_client_id">117898010629-d6smrfse3npch2jun63slpefrh10dmro.apps.googleusercontent.com</string>
+    <string name="log_out">Log Out</string>
+</resources>
